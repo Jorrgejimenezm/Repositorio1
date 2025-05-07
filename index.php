@@ -3,7 +3,7 @@
 <title>Tajamar Media</title>
 <style>
     h1{
-        color:yellow;
+        color:red;
     }
 </style>
 </head>
